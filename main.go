@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/fzuchows/mirrors"
+	"github.com/fz4dev/mirrors"
 )
 
 // https://beta.packtpub.com/reader/book/web_development/9781838643577/1/ch01lvl1sec07
